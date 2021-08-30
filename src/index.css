@@ -1,0 +1,23 @@
+body {
+    background-color: #370617;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #FAA307
+}
+#summary {
+    display: block;
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+padding: 20px;
+background-color: #6A040F;
+
+}
+
+#image {
+    display: block;
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
