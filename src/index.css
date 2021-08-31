@@ -8,15 +8,20 @@ h1, h2, h3, h4, h5, h6 {
     color: #FF7B00;
     font-family: "niconne";
 }
-#summary {
-   
+
+h1:hover{
+    color:#B5ADC2;
+}
+
+h2:hover{
+    color:#B5ADC2;
 }
 
 #image {
     display: block;
     width: 100%;
     margin: 0 auto 0 auto;
-    box-shadow: 5px 5px 5px black;
+    box-shadow: 10px 5px 5px black;
 }
 
 .section {
@@ -28,5 +33,4 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #0B5101;
     margin-bottom: 2%;
     box-shadow: 10px 5px 5px #2B4E04;
-    
 }
